@@ -1,2 +1,2 @@
-# linux-wm
-Dotfiles for linux wm config
+# linux scripts and configs
+Dotfiles, scripts and other configs for linux
