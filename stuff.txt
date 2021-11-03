@@ -1,0 +1,39 @@
+# Editor programs
+alacritty vim notepadqq paru git
+
+# Browsers
+brave-bin firefox
+
+# TTY Clock shortcuts
+tty-clock -sct -f "%a, %d %b %Y %T %z"
+
+# Font packages asian arabic emojis
+noto-fonts, noto-fonts-extra, noto-fonts-emoji, noto-fonts-cjk
+
+# More fonts
+dina-font tamsyn-font bdf-unifont ttf-bitstream-vera ttf-croscore ttf-dejavu ttf-droid gnu-free-fonts ttf-ibm-plex ttf-liberation ttf-linux-libertine font-bh-ttf ttf-roboto tex-gyre-fonts ttf-ubuntu-font-family ttf-anonymous-pro ttf-cascadia-code ttf-fantasque-sans-mono ttf-fira-mono ttf-hack ttf-fira-code ttf-inconsolata ttf-jetbrains-mono ttf-monofur adobe-source-code-pro-fonts cantarell-fonts inter-font ttf-opensans gentium-plus-font ttf-junicode
+adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts ttf-font-awesome awesome-terminal-fonts
+
+# Audio
+alsa-utils pulseaudio alsa-utils pulseaudio-alsa pavucontrol
+
+# Themes
+arc-gtk-theme arc-icon-theme archlinux-wallpaper
+
+# Display and background
+xorg nitrogen arandr lxappearance picom
+
+# Login manager lightdm
+lightdm lightdm-greeter light-locker
+
+# Login manager Sddm
+sddm
+
+# Print
+cups system-config-printer
+
+# Graphics and video
+mpv vlc playerctl
+
+# Most have hacker programs
+cmatrix hollywood sl cava neofetch btop htop ranger cbonsai
