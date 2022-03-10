@@ -1,3 +1,6 @@
+# Check search and replace with awk and sed
+awk '$1 ~ /hostname/ {printf "%s\"\n", $0}' file.txt | sed 's/=/: "/'
+
 # Check for users on the system
 awk -F: '{print $1}' /etc/passwd
 
