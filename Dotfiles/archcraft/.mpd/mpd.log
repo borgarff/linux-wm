@@ -1,0 +1,94 @@
+Oct 05 20:00 : state_file: Unrecognized line in state file: ## Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com>
+Oct 05 20:00 : state_file: Unrecognized line in state file: ## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+Oct 05 20:00 : state_file: Unrecognized line in state file:
+Oct 05 20:00 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:00 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 20:05 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 20:07 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:07 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 20:20 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 20:23 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:23 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 20:43 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 20:44 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:44 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 20:45 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 20:46 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:46 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 20:54 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 20:57 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 05 20:57 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 21:00 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 21:00 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 05 21:22 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 21:26 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 05 21:29 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 05 21:33 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 05 21:36 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 05 21:39 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 05 21:42 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 05 23:48 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 05 23:52 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 05 23:55 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 05 23:59 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 06 12:26 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 06 12:52 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 06 12:55 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 06 12:58 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 06 13:02 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 06 13:05 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 06 13:08 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 06 13:12 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 06 13:15 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 06 13:18 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 06 15:24 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 06 15:27 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 06 15:29 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 06 16:04 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 06 18:55 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 06 23:09 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 00:02 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 07 11:48 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 07 12:45 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 07 12:49 : player: played "N3WPORT - Power (feat. braev) [NCS Release].mp3"
+Oct 07 12:52 : player: played "NEFFEX - Grateful [Copyright Free].mp3"
+Oct 08 12:32 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 10 23:23 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 10 23:37 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 11 14:56 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 16:12 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 11 16:12 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 11 16:27 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 11 20:20 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 00:12 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 12 09:30 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 09:54 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 12 11:26 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 14:06 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 12 23:04 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 13 13:11 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 14:26 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 13 16:13 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 13 16:26 : player: played "Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3"
+Oct 13 23:25 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 14 11:33 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 14 17:17 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 15 12:05 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 15 12:20 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 15 12:21 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 16 14:36 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 14:36 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 16 17:29 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:19 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 16 19:51 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 16 19:52 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 16 22:20 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 00:55 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 17 00:57 : avahi: Service 'Music Player @ archcraft' successfully established.
+Oct 17 01:05 : player: played "Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3"
+Oct 17 01:13 : player: played "Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3"
+Oct 17 20:24 : update: added /Janji - Heroes Tonight (feat. Johnning) [NCS Release].mp3
+Oct 17 20:24 : update: added /Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3
+Oct 17 20:24 : update: added /Culture Code - Make Me Move (feat. Karra) [NCS Release].mp3
+Oct 17 20:24 : update: added /N3WPORT - Power (feat. braev) [NCS Release].mp3
+Oct 17 20:24 : update: added /NEFFEX - Grateful [Copyright Free].mp3
