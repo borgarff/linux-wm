@@ -16,3 +16,11 @@ ranger
 kvantum
 nitrogen
 feh
+gtk2
+gtk3
+qt
+
+###   Fonts   ###
+Nerd fonts (Iosevka)
+Noto fonts
+ttf-material-design-icons
