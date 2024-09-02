@@ -1,0 +1,9 @@
+0|Catppuccin-Mocha|~/.config/swww/Catppuccin-Mocha/rain_world1.png
+0|Catppuccin-Latte|~/.config/swww/Catppuccin-Latte/rocket_launch.png
+0|Decay-Green|~/.config/swww/Decay-Green/aurora_borealis.png
+1|Rose-Pine|~/.config/swww/Rose-Pine/lakeside_sunset.png
+0|Tokyo-Night|~/.config/swww/Tokyo-Night/edger_lucy_neon.jpg
+0|Material-Sakura|~/.config/swww/Material-Sakura/material_pastel_4.jpg
+0|Graphite-Mono|~/.config/swww/Graphite-Mono/nier_2b.jpg
+0|Cyberpunk-Edge|~/.config/swww/Cyberpunk-Edge/david.jpg
+0|Frosted-Glass|~/.config/swww/Frosted-Glass/396026-wallpaper-moon-light-night-sky-scenery-art-4k.jpg
